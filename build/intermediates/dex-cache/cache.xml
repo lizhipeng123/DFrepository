@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_57541516a90c3d2b54092e0d1528d225a20482fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_3ad8852b1d04b82c08bb9480a0a8e7078168975d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_de953d1b09528f86b4d1835f56fcf0a13802f38d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_5e77828efa7674830f032d9e118c8358c5e14d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_b88cc0ff3c82625d56e38b9bfb911dc5b84b23ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_5f269ae86456de67a923b00eb5f86a882b9f31a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_3a1667bc1c789d3003697cf503378fbffc6f0e7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidstudio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_b94e8a02d11030c87a0d40f3a330bad05d58a811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_de953d1b09528f86b4d1835f56fcf0a13802f38d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_5e77828efa7674830f032d9e118c8358c5e14d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_57541516a90c3d2b54092e0d1528d225a20482fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_62c9a5ef0dbd572aba87272f084a7dd5852b6d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_3a1667bc1c789d3003697cf503378fbffc6f0e7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_b88cc0ff3c82625d56e38b9bfb911dc5b84b23ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_62c9a5ef0dbd572aba87272f084a7dd5852b6d18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_c4d533ea2ac4908fcd45602ac5afde4e8d18a269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_3ad8852b1d04b82c08bb9480a0a8e7078168975d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\androidstudio\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_b94e8a02d11030c87a0d40f3a330bad05d58a811.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_c4d533ea2ac4908fcd45602ac5afde4e8d18a269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androiddemo\Newfactory\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="E:\androiddemo\Newfactory\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_5f269ae86456de67a923b00eb5f86a882b9f31a2.jar" />
+    </item>
+
+</items>

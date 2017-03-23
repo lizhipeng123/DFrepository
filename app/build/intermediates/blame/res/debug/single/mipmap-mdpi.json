@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\daoran.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-mdpi\\daoran.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

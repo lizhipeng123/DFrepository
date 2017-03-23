@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\logo.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_home.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\icon_home.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_hot.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\icon_hot.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\guidepoint_red.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\guidepoint_red.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_home_press.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\icon_home_press.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\guidepoint_gray.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\guidepoint_gray.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_hot_press.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\icon_hot_press.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\daoran.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\daoran.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_discover_press.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\icon_discover_press.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_user.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\icon_user.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_user_press.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\icon_user_press.png"
+    },
+    {
+        "merged": "E:\\androiddemo\\Newfactory\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\icon_discover.png",
+        "source": "E:\\androiddemo\\Newfactory\\app\\src\\main\\res\\mipmap-hdpi\\icon_discover.png"
+    }
+]
